@@ -1,0 +1,11 @@
+/src
+  /api         # API services and AI integration
+  /components  # Reusable UI components
+  /features    # Feature modules
+  /hooks       # Custom hooks
+  /lib         # Utilities and helpers
+  /store       # State management
+  /types       # TypeScript types
+App.tsx        # Main application component
+main.tsx       # Application entry point
+vite.config.ts # Build configuration
